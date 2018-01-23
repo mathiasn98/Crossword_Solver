@@ -1,3 +1,5 @@
+#Name : Mathias Novianto
+#Date : 23 January 2018
 import time
 
 class Possible_Place:
